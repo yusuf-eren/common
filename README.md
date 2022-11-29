@@ -8,7 +8,5 @@ npm install @yusuferen/common
 ```
 
 # Usage
-### See example usages of the package
-```
+### See example usages of the package;
 https://github.com/yusuf-eren/ticket-app
-```
